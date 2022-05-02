@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ Accordion Card Solution
 
-This is a solution to the [FAQ Accordion Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [FAQ Accordion Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-with-html-css-javascript-SkXfvCaH5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-js-css-bootstrap-r1NJ0ru4q)
+- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/faq-accordion-card-with-html-css-javascript-SkXfvCaH5)
   
-- Live Site URL: [Halibal | FAQ Accordion Card](https://halibal.github.io/article-preview-component/)
+- Live Site URL: [Halibal | FAQ Accordion Card](https://halibal.github.io/faq-accordion-card/)
 
 ### Built with
 
