@@ -35,6 +35,7 @@ a {
 }
 
 p {
+    font-size: 14px;
     margin-top: 1%;
     margin-bottom: 1%;
 }
@@ -97,6 +98,12 @@ main {
     color: hsl(228, 45%, 44%); 
 }
 
+.arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .faqAnswers {
     display: none;
 }
@@ -107,7 +114,7 @@ main {
     display: flex;
     justify-content: space-between;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 
 .faqQuestions:hover {
@@ -139,6 +146,12 @@ main {
     margin-bottom: 2rem;
 }
 
+@media (min-width: 500px) and (max-width: 1200px) {
+    main {
+        width: 450px;
+    }
+}
+
 @media screen and (min-width: 1200px) {
     
     h1 {
@@ -160,19 +173,19 @@ main {
         position: absolute;
         display: block;
         overflow: visible;
-        left: -10%;
-        top: 43%;
+        left: -9.3%;
+        top: 42.5%;
     }
 
     .illustrationDesktop {
         z-index: 1;
-        display: block;
+        display: initial;
         margin-left: -17%;
     }
 
     .illustrationDesktopDiv {
         overflow: hidden;
-        display: block;
+        display: initial;
     }
 
 
