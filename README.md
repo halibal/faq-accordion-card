@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-- ![Desktop Version]()
-- ![Desktop Version Active State]()
-- ![Mobile Version]()
-- ![Desktop Version Active State]()
+- ![Desktop Version](./images/desktop_default.png)
+- ![Desktop Version Active State](./images/desktop_active.png)
+- ![Mobile Version](./images/mobile_default.png)
+- ![Desktop Version Active State](./images/mobile_active.png)
 
 ### Links
 
@@ -43,7 +43,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - [Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
-<!-- - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) -->
 - [JavaScript](https://www.javascript.com)
 
 ### What I learned
@@ -61,11 +60,6 @@ Users should be able to:
 ### Useful resources
 
 - [Developer Mozilla | drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
-- [Geeksforgeeks | Call Multiple Functions in Onclick Event](https://www.geeksforgeeks.org/call-multiple-javascript-functions-in-onclick-event/)
-- [Bootstrap | Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
-- [The Codest | Noreferror Noopener](https://thecodest.co/blog/web-app-security-target-_blank-vulnerability)
-- [CSS Tricks | Object Position](https://css-tricks.com/almanac/properties/o/object-fit/)
-- [Create Share Links - TW | FB | PIN | TUM](https://gist.github.com/chrisjlee/5196139)
 
 ## Author
 
