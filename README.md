@@ -52,6 +52,10 @@ Users should be able to:
   .shadow {
     filter: drop-shadow(offset-x offset-y blur-radius color);
   }
+
+  .item {
+    width: clamp(<min>px, ...%, <max>px) /* To ensure that the width of the item is ...% of parent, but > ...px(minimum) and < ...px(maximum) */
+  }
 ```
 
 ### Useful resources
